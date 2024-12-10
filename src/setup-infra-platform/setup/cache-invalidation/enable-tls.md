@@ -55,7 +55,7 @@ Alternatively, check [Install and configure RabbitMQ using the command-line](<in
 
 ## Configuring the certificate canonical name
 
-If the canonical name used in the certificate does not match the host name of the machine running the RabbitMQ service, you must manually configure a parameter in the `server.hsconf` file.
+If the canonical name used in the certificate does not match the host name of the machine running the RabbitMQ service, you must manually configure a parameter in the [`server.hsconf`](<../unattended-install/server-hsconf-ref.md>) file.
 
 Do the following:
 
