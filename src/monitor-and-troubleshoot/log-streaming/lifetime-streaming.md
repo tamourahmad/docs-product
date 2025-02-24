@@ -17,7 +17,11 @@ coverage-type:
 ---
 
 # Configuring the log streaming service in LifeTime
+<div class="info" markdown="1">
 
+Log streaming support is only available for OutSystems Cloud deployments with a valid log streaming subscription.
+
+</div>
 To enable log streaming from the O11 app to the corresponding APM tool,you must configure the APM server details and the authentication credentials. This article explains how you can configure the log streaming service in LifeTime for a specific APM tool.
 
 ## Prerequisites
